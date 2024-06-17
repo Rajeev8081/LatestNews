@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LatestNews/static/css/main.cd0e78a1.css",
+    "main.js": "/LatestNews/static/js/main.0e52d9f2.js",
+    "static/js/453.08c78f33.chunk.js": "/LatestNews/static/js/453.08c78f33.chunk.js",
+    "static/media/entertainment.jpg": "/LatestNews/static/media/entertainment.b3705b9231a8192b49a5.jpg",
+    "static/media/business.jpg": "/LatestNews/static/media/business.5c1aa040f594d03c7688.jpg",
+    "static/media/Health.jpg": "/LatestNews/static/media/Health.be4099a49dce5c6f0c46.jpg",
+    "static/media/technology.jpg": "/LatestNews/static/media/technology.f1486536cbcc0adf44e6.jpg",
+    "static/media/general.jpg": "/LatestNews/static/media/general.43d04df054b61907aee4.jpg",
+    "static/media/Spinner.gif": "/LatestNews/static/media/Spinner.56a0e8efdebb319274d9.gif",
+    "static/media/cricket.jpg": "/LatestNews/static/media/cricket.8965a848132eff251b0a.jpg",
+    "static/media/science.jpg": "/LatestNews/static/media/science.68fdd937f89f11db6f29.jpg",
+    "index.html": "/LatestNews/index.html",
+    "main.cd0e78a1.css.map": "/LatestNews/static/css/main.cd0e78a1.css.map",
+    "main.0e52d9f2.js.map": "/LatestNews/static/js/main.0e52d9f2.js.map",
+    "453.08c78f33.chunk.js.map": "/LatestNews/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0e78a1.css",
+    "static/js/main.0e52d9f2.js"
+  ]
+}
