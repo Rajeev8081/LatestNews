@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* background image */
+/* Default background style */
+.app-container {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Background styles for specific routes */
+.background-business {
+  background-image: url('./Components/business.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-entertainment {
+  background-image: url('./Components/entertainment.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-general {
+  background-image: url('./Components/general.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-health {
+  background-image: url('./Components/Health.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-science {
+  background-image: url('./Components/science.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-sports {
+  background-image: url('./Components/cricket.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
+
+.background-technology {
+  background-image: url('./Components/technology.jpg');
+  background-size: cover; /* Ensures the background covers the entire area */
+  background-repeat: no-repeat; /* Prevents the background from repeating */
+  background-attachment: fixed; /* Fixes the background in place */
+  background-position: center; /* Centers the background image */
+}
